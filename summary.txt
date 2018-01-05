@@ -1,0 +1,168 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         15
+	Longest value:         7 characters
+	Most common values:    R000600 (2x)
+	                       B001299 (1x)
+	                       B001227 (1x)
+	                       F000455 (1x)
+	                       H001070 (1x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         15
+	Longest value:         28 characters
+	Most common values:    HON. AMATA COLEMAN RADEWAGEN (2x)
+	                       HON. JIM BANKS (1x)
+	                       HON. ROBERT A. BRADY (1x)
+	                       HON. MARCIA FUDGE (1x)
+	                       HON. CRESENT HARDY (1x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (16x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (16x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2
+	Longest value:         30 characters
+	Most common values:    FRANKED MAIL (15x)
+	                       RENT  COMMUNICATION  UTILITIES (1x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        2017-01-23
+	Largest value:         2017-03-29
+	Most common values:    2017-02-27 (5x)
+	                       2017-02-06 (4x)
+	                       2017-03-29 (4x)
+	                       2017-01-23 (2x)
+	                       2017-03-07 (1x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (16x)
+
+  8. "RECORDID"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         6
+	Smallest value:        900,875
+	Largest value:         912,278
+	Sum:                   14,498,269
+	Mean:                  906,141.812
+	Median:                906,822
+	StDev:                 4,457.025
+	Most common values:    906,822 (5x)
+	                       901,456 (4x)
+	                       912,278 (4x)
+	                       900,875 (1x)
+	                       900,877 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         28 characters
+	Most common values:    UNITED STATES POSTAL SERVICE (16x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        2016-06-01
+	Largest value:         2017-02-01
+	Most common values:    2017-01-03 (5x)
+	                       2016-12-01 (5x)
+	                       2017-02-01 (4x)
+	                       2016-06-01 (2x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        2016-06-30
+	Largest value:         2017-02-28
+	Most common values:    2017-01-31 (5x)
+	                       2017-01-02 (5x)
+	                       2017-02-28 (4x)
+	                       2016-06-30 (2x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2
+	Longest value:         19 characters
+	Most common values:    FRANKED MAIL (15x)
+	                       RECORDING (OUTSIDE) (1x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         13
+	Smallest value:        -23,403.63
+	Largest value:         0.93
+	Sum:                   -46,211.82
+	Mean:                  -2,888.239
+	Median:                0.46
+	StDev:                 7,743
+	Most common values:    0.46 (3x)
+	                       0.88 (2x)
+	                       0.49 (1x)
+	                       0.85 (1x)
+	                       -24.09 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2,016
+	Largest value:         2,017
+	Sum:                   32,270
+	Mean:                  2,016.875
+	Median:                2,017
+	StDev:                 0.342
+	Most common values:    2,017 (14x)
+	                       2,016 (2x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         28 characters
+	Most common values:    UNITED STATES POSTAL SERVICE (16x)
+
+Row count: 16
